@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student at Monterrey Institute of Technology. Currently doing a B.S. in Engineering Physics. My main interest are robotics and optics. Right now I'm working on a research stay about nonlinear control for a unmanned aerial vehicle.
+.
 
 <!--
 **DanielRic/DanielRic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
